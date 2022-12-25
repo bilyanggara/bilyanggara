@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Developer, Data Science, AI.
 - 🌱 I’m currently learning Web Developer.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on insta: @bilyanggaraa
 
 <!---
 bilyanggara/bilyanggara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
